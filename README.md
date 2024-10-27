@@ -11,7 +11,7 @@
     I am Venkata Ramana, a certified Full Stack Web Developer trained at Masai. I have skills in HTML, CSS, JavaScript, React, Node.js, MySQL, and MongoDB. I focus on creating user-friendly web applications and enjoy solving problems. I hold a B.Tech in Electrical and Electronics Engineering from Jawaharlal Nehru Technological University, Anantapur (JNTUA). I’m eager to work on exciting projects and collaborate with others.
 </p>
 
-For more details, click here for the portfolio link: [Portfolio Link](#)
+For more details, click here for the portfolio link: []()
 
 ---
 
@@ -63,16 +63,8 @@ I am a Full Stack Developer with skills in both front-end and back-end technolog
 
 ## **Languages and Tools:**
 
-[![HTML](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/html.svg)](https://html.com)  
-[![CSS](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-css-logo.svg)](https://css-tricks.com)  
-[![Tailwind CSS](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-tailwind-css.svg)](https://tailwindcss.com)  
-[![JavaScript](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Firebase](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-firebase.svg)](https://firebase.google.com)  
-[<img src="https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/postman.svg" alt="Postman" width="96" height="96"/>](https://www.postman.com)  
-[![React](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-react-native.svg)](https://reactjs.org)  
-[<img src="https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/mongodb.svg" alt="MongoDB" width="96" height="96"/>](https://www.mongodb.com)  
-[![MySQL](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-mysql.svg)](https://www.mysql.com)  
-[![Git](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-git.svg)](https://git-scm.com)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 
 ---
