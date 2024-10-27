@@ -62,6 +62,7 @@ I am a Full Stack Developer with skills in both front-end and back-end technolog
 ---
 
 ## **Languages and Tools:**
+
 [![HTML](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/html.svg)](https://html.com)  
 [![CSS](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-css-logo.svg)](https://css-tricks.com)  
 [![Tailwind CSS](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-tailwind-css.svg)](https://tailwindcss.com)  
