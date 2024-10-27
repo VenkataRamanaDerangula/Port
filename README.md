@@ -27,6 +27,8 @@ For more details, click here for the portfolio link: []()
 [![LinkedIn](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-linkedin.svg)](https://www.linkedin.com/in/suryosikha-hati-9a8914229/)  
 **Email:** [gerangularamaaa22@gmail.com](mailto:gerangularamaaa22@gmail.com)
 
+[![LinkedIn](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/email.png)](0) 
+
 ---
 
 ## Skills
