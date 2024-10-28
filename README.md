@@ -80,11 +80,10 @@ I am a Full Stack Developer with skills in both front-end and back-end technolog
 ---
 
 # 📊 GitHub Stats:
-
-                                   ![](https://github-readme-streak-stats.herokuapp.com/?user=VenkataRamanaDerangula&theme=default&hide_border=false)
+          [](https://github-readme-streak-stats.herokuapp.com/?user=VenkataRamanaDerangula&theme=default&hide_border=false)
                       
                       
-            ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataRamanaDerangula&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+    [](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataRamanaDerangula&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
