@@ -82,8 +82,6 @@ I am a Full Stack Developer with skills in both front-end and back-end technolog
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VenkataRamanaDerangula&theme=default&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VenkataRamanaDerangula&theme=default&hide_border=false)
-<p align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataRamanaDerangula&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataRamanaDerangula&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
