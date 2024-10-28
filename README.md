@@ -73,7 +73,6 @@ I am a Full Stack Developer with skills in both front-end and back-end technolog
 [<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/firebase.svg" alt="Firebase" width="70" height="70"/>](https://firebase.google.com)
 [<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/git.svg" alt="Git" width="70" height="70"/>](https://git-scm.com) 
 [<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/postman.svg" alt="Postman" width="70" height="70"/>](https://www.postman.com) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="70" height="70"/>](https://aws.amazon.com) 
 [<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/linux.svg" alt="Linux" width="70" height="70"/>](https://www.linux.org)
 
 
