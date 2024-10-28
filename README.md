@@ -60,27 +60,29 @@ For more details, click here for the [Portfolio](https://venkataramanaderangula.
 I am a Full Stack Developer with skills in both front-end and back-end technologies. I create user-friendly applications using HTML, CSS, and JavaScript frameworks like React and Tailwind CSS. On the back end, I work with Node.js and databases like MongoDB and MySQL to build reliable server-side applications. I also have experience with version control using Git and deploying applications on cloud platforms like AWS. I enjoy problem-solving and continuously learning new technologies to improve my skills and deliver effective solutions.
 ## **Languages and Tools:**
 
+## **Languages and Tools:**
+
 ### Languages
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/javascript.svg" alt="JavaScript" width="96" height="96"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="96" height="96"/>](https://www.python.org)
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/javascript.svg" alt="JavaScript" width="70" height="70"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="70" height="70"/>](https://www.python.org)
 
 ### Frontend
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/html.svg" alt="HTML" width="96" height="96"/>](https://html.com) 
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/css.svg" alt="CSS" width="96" height="96"/>](https://css-tricks.com) 
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/react.svg" alt="React" width="96" height="96"/>](https://reactjs.org) 
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/tailwind.svg" alt="Tailwind CSS" width="96" height="96"/>](https://tailwindcss.com)
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/html.svg" alt="HTML" width="70" height="70"/>](https://html.com) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/css.svg" alt="CSS" width="70" height="70"/>](https://css-tricks.com) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/react.svg" alt="React" width="70" height="70"/>](https://reactjs.org) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/tailwind.svg" alt="Tailwind CSS" width="70" height="70"/>](https://tailwindcss.com)
 
 ### Backend
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/nodejs.svg" alt="Node.js" width="96" height="96"/>](https://nodejs.org) 
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/mongodb.svg" alt="MongoDB" width="96" height="96"/>](https://www.mongodb.com) 
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/mysql.svg" alt="MySQL" width="96" height="96"/>](https://www.mysql.com) 
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/firebase.svg" alt="Firebase" width="96" height="96"/>](https://firebase.google.com)
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/nodejs.svg" alt="Node.js" width="70" height="70"/>](https://nodejs.org) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/mongodb.svg" alt="MongoDB" width="70" height="70"/>](https://www.mongodb.com) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/mysql.svg" alt="MySQL" width="70" height="70"/>](https://www.mysql.com) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/firebase.svg" alt="Firebase" width="70" height="70"/>](https://firebase.google.com)
 
 ### Tools
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/git.svg" alt="Git" width="96" height="96"/>](https://git-scm.com) 
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/postman.svg" alt="Postman" width="96" height="96"/>](https://www.postman.com) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="96" height="96"/>](https://aws.amazon.com) 
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/linux.svg" alt="Linux" width="96" height="96"/>](https://www.linux.org)
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/git.svg" alt="Git" width="70" height="70"/>](https://git-scm.com) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/postman.svg" alt="Postman" width="70" height="70"/>](https://www.postman.com) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="70" height="70"/>](https://aws.amazon.com) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/linux.svg" alt="Linux" width="70" height="70"/>](https://www.linux.org)
 
 
 ---
