@@ -88,7 +88,9 @@ I am a Full Stack Developer with skills in both front-end and back-end technolog
 ## Projects
 
 Here are a few projects I've worked on:
-- **Project 1**: [Vanilla Cosmetics](https://vanilla-cosmetics.netlify.app/) - A sleek and user-friendly eCommerce platform for cosmetics. It features a clean UI, product filtering, and responsive design, providing a seamless shopping experience. Built with HTML and CSS for efficient performance and smooth navigation across devices.
+- **Project 1**:
+-  [Vanilla Cosmetics](https://vanilla-cosmetics.netlify.app/)
+-  - A sleek and user-friendly eCommerce platform for cosmetics. It features a clean UI, product filtering, and responsive design, providing a seamless shopping experience. Built with HTML and CSS for efficient performance and smooth navigation across devices.
 - **Project 2**: [MovieGate](https://66d56ac1eab8d3bc631a18c5--famous-semifreddo-ecf23a.netlify.app/) - A movie booking platform that streamlines ticket reservation with movie listings, real-time seat selection, and secure booking functionality. Developed with HTML, CSS, and JavaScript for a smooth user experience and responsive design across devices.
 - **Project 3**: [Project Title](#) - Brief description of the project.
 
