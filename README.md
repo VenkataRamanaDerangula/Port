@@ -24,10 +24,10 @@ For more details, click here for the [Portfolio](https://venkataramanaderangula.
 
 ## Get in Touch
 
-[![LinkedIn](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-linkedin.svg)](https://www.linkedin.com/in/suryosikha-hati-9a8914229/)  
+[![LinkedIn](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-linkedin.svg)](https://www.linkedin.com/in/suryosikha-hati-9a8914229/)  [<img src="https://raw.githubusercontent.com/VenkataRamanaDerangula/DERANGULA/main/images/Skills/email.png" alt="LinkedIn" width="96" height="96"/>](#)
+
 **Email:** [gerangularamaaa22@gmail.com](mailto:gerangularamaaa22@gmail.com)
 
-[<img src="https://raw.githubusercontent.com/VenkataRamanaDerangula/DERANGULA/main/images/Skills/email.png" alt="LinkedIn" width="96" height="96"/>](#)
 
 ---
 
