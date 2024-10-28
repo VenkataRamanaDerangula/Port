@@ -1,3 +1,4 @@
+
 # Hello, I'm Venkata Ramana Derangula 🎉
 
 <p align="center">Hello Venkata!</p>
@@ -23,8 +24,8 @@ For more details, click here for the [Portfolio](https://venkataramanaderangula.
 
 ## Get in Touch
 
-[![LinkedIn](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-linkedin.svg)](https://www.linkedin.com/in/suryosikha-hati-9a8914229/)  
-[<img src="https://raw.githubusercontent.com/VenkataRamanaDerangula/DERANGULA/main/images/Skills/email.png" alt="LinkedIn" width="96" height="96"/>](#)
+[![LinkedIn](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-linkedin.svg)](https://www.linkedin.com/in/suryosikha-hati-9a8914229/)  [<img src="https://raw.githubusercontent.com/VenkataRamanaDerangula/DERANGULA/main/images/Skills/email.png" alt="LinkedIn" width="96" height="96"/>](#)
+
 
 ---
 
@@ -32,8 +33,8 @@ For more details, click here for the [Portfolio](https://venkataramanaderangula.
 
 ### Languages
 - **JavaScript**  
-- **Python**  
-
+- **Python**
+- 
 ### Frontend
 - **HTML**  
 - **CSS**  
@@ -58,37 +59,32 @@ For more details, click here for the [Portfolio](https://venkataramanaderangula.
 
 I am a Full Stack Developer with skills in both front-end and back-end technologies. I create user-friendly applications using HTML, CSS, and JavaScript frameworks like React and Tailwind CSS. On the back end, I work with Node.js and databases like MongoDB and MySQL to build reliable server-side applications. I also have experience with version control using Git and deploying applications on cloud platforms like AWS. I enjoy problem-solving and continuously learning new technologies to improve my skills and deliver effective solutions.
 
-**Languages and Tools:**
+ **Languages and Tools:**
 
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/javascript.svg" alt="JavaScript" width="70" height="70"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="70" height="70"/>](https://www.python.org)  
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/html.svg" alt="HTML" width="70" height="70"/>](https://html.com)  
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/css.svg" alt="CSS" width="70" height="70"/>](https://css-tricks.com)  
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/react.svg" alt="React" width="70" height="70"/>](https://reactjs.org)  
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/tailwind.svg" alt="Tailwind CSS" width="70" height="70"/>](https://tailwindcss.com)  
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/nodejs.svg" alt="Node.js" width="70" height="70"/>](https://nodejs.org)  
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/mongodb.svg" alt="MongoDB" width="70" height="70"/>](https://www.mongodb.com)  
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/mysql.svg" alt="MySQL" width="70" height="70"/>](https://www.mysql.com)  
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/firebase.svg" alt="Firebase" width="70" height="70"/>](https://firebase.google.com)  
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/git.svg" alt="Git" width="70" height="70"/>](https://git-scm.com)  
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/postman.svg" alt="Postman" width="70" height="70"/>](https://www.postman.com)  
-[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/linux.svg" alt="Linux" width="70" height="70"/>](https://www.linux.org)  
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/javascript.svg" alt="JavaScript" width="70" height="70"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="70" height="70"/>](https://www.python.org)
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/html.svg" alt="HTML" width="70" height="70"/>](https://html.com) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/css.svg" alt="CSS" width="70" height="70"/>](https://css-tricks.com) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/react.svg" alt="React" width="70" height="70"/>](https://reactjs.org) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/tailwind.svg" alt="Tailwind CSS" width="70" height="70"/>](https://tailwindcss.com)
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/nodejs.svg" alt="Node.js" width="70" height="70"/>](https://nodejs.org) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/mongodb.svg" alt="MongoDB" width="70" height="70"/>](https://www.mongodb.com) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/mysql.svg" alt="MySQL" width="70" height="70"/>](https://www.mysql.com) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/firebase.svg" alt="Firebase" width="70" height="70"/>](https://firebase.google.com)
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/git.svg" alt="Git" width="70" height="70"/>](https://git-scm.com) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/postman.svg" alt="Postman" width="70" height="70"/>](https://www.postman.com) 
+[<img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/linux.svg" alt="Linux" width="70" height="70"/>](https://www.linux.org)
+
+
 
 ---
 
 # 📊 GitHub Stats:
-<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=VenkataRamanaDerangula&theme=default&hide_border=false&include_all_commits=true&count_private=false)
-</p>
-<p align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VenkataRamanaDerangula&theme=default&hide_border=false)
-</p>
-<p align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataRamanaDerangula&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</p>
 
 ---
-
 ## Projects
 
 Here are a few projects I've worked on:
@@ -102,7 +98,10 @@ Here are a few projects I've worked on:
 - **Project 3**: [Project Title](#)  
   Brief description of the project.
 
+
+
 ---
+
 
 ## Certifications
 
@@ -132,3 +131,4 @@ I actively contribute to open-source projects, focusing on [Briefly describe the
 ## Awards and Achievements
 
 - [Any notable awards or achievements]
+- 
