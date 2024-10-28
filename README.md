@@ -58,20 +58,24 @@ For more details, click here for the [Portfolio](https://venkataramanaderangula.
 ## Skills Summary
 
 I am a Full Stack Developer with skills in both front-end and back-end technologies. I create user-friendly applications using HTML, CSS, and JavaScript frameworks like React and Tailwind CSS. On the back end, I work with Node.js and databases like MongoDB and MySQL to build reliable server-side applications. I also have experience with version control using Git and deploying applications on cloud platforms like AWS. I enjoy problem-solving and continuously learning new technologies to improve my skills and deliver effective solutions.
+## **Languages and Tools:**
+
+### Languages
+[![JavaScript](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://www.python.org)
+
+### Frontend
+[![HTML](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/html.svg)](https://html.com) [![CSS](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/css.svg)](https://css-tricks.com) [![React](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/react.svg)](https://reactjs.org) [![Tailwind CSS](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/tailwind.svg)](https://tailwindcss.com)
+
+### Backend
+[![Node.js](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/nodejs.svg)](https://nodejs.org) [![MongoDB](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/mongodb.svg)](https://www.mongodb.com) [![MySQL](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/mysql.svg)](https://www.mysql.com) [![Firebase](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/firebase.svg)](https://firebase.google.com)
+
+### Tools
+[![Git](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/git.svg)](https://git-scm.com) [![Postman](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/postman.svg)](https://www.postman.com) [![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)](https://aws.amazon.com) [![Linux](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/linux.svg)](https://www.linux.org)
+
 
 ---
 
-## **Languages and Tools:**
-[![HTML](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-html.svg)](https://html.com)  
-[![CSS](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-css-logo.svg)](https://css-tricks.com)  
-[![Tailwind CSS](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-tailwind-css.svg)](https://tailwindcss.com)  
-[![JavaScript](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Firebase](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-firebase.svg)](https://firebase.google.com)  
-[<img src="https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/postman.svg" alt="Postman" width="96" height="96"/>](https://www.postman.com)  
-[![React](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-react-native.svg)](https://reactjs.org)  
-[<img src="https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/mongodb.svg" alt="MongoDB" width="96" height="96"/>](https://www.mongodb.com)  
-[![MySQL](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-mysql.svg)](https://www.mysql.com)  
-[![Git](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-git.svg)](https://git-scm.com)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VenkataRamanaDerangula&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
