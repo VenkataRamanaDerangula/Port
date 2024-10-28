@@ -11,7 +11,7 @@
     I am Venkata Ramana, a certified Full Stack Web Developer trained at Masai. I have skills in HTML, CSS, JavaScript, React, Node.js, MySQL, and MongoDB. I focus on creating user-friendly web applications and enjoy solving problems. I hold a B.Tech in Electrical and Electronics Engineering from Jawaharlal Nehru Technological University, Anantapur (JNTUA). I’m eager to work on exciting projects and collaborate with others.
 </p>
 
-For more details, click here for the portfolio link: [Portfolio](https://venkataramanaderangula.netlify.app/)
+For more details, click here for the [Portfolio](https://venkataramanaderangula.netlify.app/)
 
 ---
 
