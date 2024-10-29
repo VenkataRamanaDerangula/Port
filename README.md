@@ -1,4 +1,4 @@
-# Hello, I'm Venkata Ramana Derangula 🎉
+                                             # Hello, I'm Venkata Ramana Derangula 🎉
 
 <p align="center">Hello Venkata!</p>
 
@@ -100,29 +100,19 @@ Here are a few projects I've worked on:
 
 ## Certifications
 
-- Certified Web Developer from Masai School
-- [Any other relevant certifications]
-
----
-
-## Interests
-
-I am interested in exploring new technologies, contributing to open-source projects, and enhancing my skills in software development
+- **Certified Web Developer from Masai School**  
+  Completed a program that taught me how to build websites. I learned skills like HTML, CSS, and JavaScript, which help me create user-friendly and responsive web pages.
 
 ---
 
 ## Hobbies
 
-In my free time, I enjoy [Your Hobbies, e.g., reading, traveling, playing sports]
+- **Listening to Music**  
+  I enjoy listening to different types of music. It makes me feel good and helps me relax.
+
+- **Watching Movies**  
+  I love watching movies, especially thrillers and documentaries. I enjoy the excitement of thrillers and the interesting information that documentaries provide.
 
 ---
 
-## Contribution to Open Source
 
-I actively contribute to open-source projects, focusing on [Briefly describe the areas you contribute to]
-
----
-
-## Awards and Achievements
-
-- [Any notable awards or achievements]
