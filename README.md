@@ -18,14 +18,12 @@ For more details, click here for the [Portfolio](https://venkataramanaderangula.
 
 - **B.Tech in Electrical and Electronics Engineering (EEE)**  
   Jawaharlal Nehru Technological University, Anantapur (JNTUA), AP
+
 ## Get in Touch
 
-<a href="https://www.linkedin.com/in/venkataramanaderangula/" target="_blank">
-  <img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/inkedin.svg" alt="LinkedIn" width="96" height="96" style="vertical-align: middle; margin-right: 10px;">
-</a>
-<a href="mailto:derangularamana22@gmail.com">
-  <img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/email.png" alt="Email" width="96" height="96" style="vertical-align: middle;">
-</a>
+[![LinkedIn](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/inkedin.svg){:width="96" height="96"}](https://www.linkedin.com/in/venkataramanaderangula/) 
+&nbsp;&nbsp;
+[![Email](https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/email.png){:width="96" height="96"}](mailto:derangularamana22@gmail.com)
 
 
 ## Skills
