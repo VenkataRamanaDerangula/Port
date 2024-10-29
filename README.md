@@ -1,4 +1,4 @@
-                                             # Hello, I'm Venkata Ramana Derangula 🎉
+<h1 align="center">Hello, I'm Venkata Ramana Derangula 🎉</h1>
 
 <p align="center">Hello Venkata!</p>
 
